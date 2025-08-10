@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realastryx&label=Profile%20views&color=0e75b6&style=flat" alt="realastryx" /> </p>
 
-- 🔧 I’m currently working on **Phoenix, An Offline Music Player**
+- 🔧 I’m currently working on this project: **Phoenix, An Offline Music Player**
 
-- ✨ I’m currently learning **Rust, Electron, Desktop Development**
+- ✨ I’m currently learning these things: **Rust, Electron, Desktop Development**
 
-- 📫 How to reach me **business.astryxdev@gmail.com**
+- 📫 Contact me through: **business.astryxdev@gmail.com**
 
-- ⚡ Fun fact **I'm just a silly but dumb developer :)**
+- ⚡ Fun fact About Me: **I'm just a silly but dumb developer :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
