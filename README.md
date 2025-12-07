@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am AstryxReal, but my real name is Carl</h1>
+<h1 align="center">Hello! I am RealAstryx, but my real name is Carl</h1>
 <h3 align="center">A dedicated front-end and backend developer from the Philippines! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realastryx&label=Profile%20views&color=0e75b6&style=flat" alt="realastryx" /> </p>
